@@ -97,9 +97,7 @@ python main.py
 ## 文献参考
 
 本项目参考以下研究：
-- Deep Q-Networks (DQN) - Mnih et al., 2015
-- Double DQN - van Hasselt et al., 2016
-- 机器人路径规划与障碍物避免
+- [Path Planning of Autonomous Mobile Robot in Comprehensive Unknown Environment Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10475692) - Bai et al., 2024
 
 ## 许可证
 
